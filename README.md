@@ -1,8 +1,8 @@
 # 🧠 BinaryGame
 
-**BinaryGame** – a logic puzzle resembling sudoku 
-Built with **Vue 3 + Vite**
-Current build: v.0.1
+### **BinaryGame** – a logic puzzle resembling sudoku 
+### Built with **Vue 3 + Vite**
+### Current build: v.0.1
 
 # 🕹️ Play it now online: 
 [nimo-binarygame.netlify.app](https://nimo-binarygame.netlify.app/)
