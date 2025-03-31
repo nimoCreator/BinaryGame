@@ -1,29 +1,23 @@
-# BinaryGame
+# 🧠 BinaryGame
 
-This template should help get you started developing with Vue 3 in Vite.
+**BinaryGame** – a logic puzzle resembling sudoku 
+Built with **Vue 3 + Vite**
+Current build: v.0.1
 
-## Recommended IDE Setup
+# 🕹️ Play it now online: 
+[nimo-binarygame.netlify.app](https://nimo-binarygame.netlify.app/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Customize configuration
+## 🧑‍💻 Open Source
+### Download, modify, do whatever you want!
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
+### Installing npm in the downloaded repository
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
+### Run the local server
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
